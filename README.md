@@ -1,7 +1,7 @@
 I'm on my journey to becoming a great programmer and my passion will take me there.
 
 🤚 Hi there, I am Maciej :)
-- 👀 My story: https://maciejkuran.com/my-story
+- 👀 About me: https://maciejkuran.com/about
 - 👉 My Projects & Case Studies: https://maciejkuran.com/my-projects
 - ✍🏻 Blog / Programming assignments: https://maciejkuran.com/blog
 - 📧 Contact: maciejkuran@gmail.com 
