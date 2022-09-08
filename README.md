@@ -18,7 +18,7 @@
 
 
 👨‍🎓 Currently study:
-- 2022 - ... Engineering Studies, Computer Science (Business Application Developer) at School of Business National Louis University
+- 2022 - ... Computer Science, Engineering Studies, (Business Application Developer specialty) at School of Business National Louis University
 - 2022 - `TypeScript` Bootcamp with Maximilian Schwarzmüller 
 - 2022 - `React.js` Bootcamp with Maximilian Schwarzmüller 
 - 2022 - `Node.js` Bootcamp with Jonas Schmedtmann
