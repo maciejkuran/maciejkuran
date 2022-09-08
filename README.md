@@ -31,7 +31,7 @@
 - [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
 
 
-👨‍💻 All projects: [maciejkuran.com](https://maciejkuran.com/my-projects) 
+👨‍💻 All projects: [maciejkuran.com/my-projects](https://maciejkuran.com/my-projects) 
 
 
 📝 I do blogging: [maciejkuran.com/blog](https://maciejkuran.com/blog/) 
