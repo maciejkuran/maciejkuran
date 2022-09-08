@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maciej!
 
-<p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189122110-3ded9806-391c-4ab7-ab57-851838a6efa6.jpg"></p>
+![Ja_edited_1_background-overlay-2](https://user-images.githubusercontent.com/103118542/189139452-abcc5a0a-d206-457c-99c6-86e6592607ec.jpg)
 
 > I'm Maciej! I learn, plan, design & code 😉. The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else.
 
