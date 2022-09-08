@@ -2,7 +2,7 @@
 
 ![Ja_edited_1_background-overlay-2](https://user-images.githubusercontent.com/103118542/189139452-abcc5a0a-d206-457c-99c6-86e6592607ec.jpg)
 
-> I'm Maciej! I learn, plan, design & code 😉. The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else.
+> <b>I learn, plan, design & code ⌨️.</b> The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else.
 
 ## Creator of colorala.com 🤍
 <p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189123235-ca1a6061-2eee-4a4f-a5b1-df5d4b99e44b.jpg"></p>
@@ -15,20 +15,33 @@
 ## In Brief
 
 🗺️ Current location: Poland, Thorn
+
+
 👨‍🎓 Currently study:
 - 2022 - ... Engineering Studies, Computer Science (Business Application Developer) at School of Business National Louis University
 - 2022 - `TypeScript` Bootcamp with Maximilian Schwarzmüller 
 - 2022 - `React.js` Bootcamp with Maximilian Schwarzmüller 
 - 2022 - `Node.js` Bootcamp with Jonas Schmedtmann
+
+
 💻 Website: [maciejkuran.com](https://maciejkuran.com/)
+
+
 ⌨️ Latest project:
 - [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
+
+
 👨‍💻 All projects: [maciejkuran.com](https://maciejkuran.com/) 
+
+
 📝 I do blogging: [maciejkuran.com/blog](https://maciejkuran.com/blog/) 
+
+
 💕 In the meantime:
 - I care for my bonsai trees 🌳
 - I play and watch football ⚽
 - I am crazy with my 2 PUGS 🧸🧸🧡
+
 
 📫 Contact: maciejkuran@gmail.com
 
