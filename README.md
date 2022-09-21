@@ -1,8 +1,8 @@
-# Hi 👋, I'm Maciej!
+# 👋 I'm Maciej, a Poland-based web developer and designer.
 
 ![Ja_edited_1_background-overlay-2](https://user-images.githubusercontent.com/103118542/189139452-abcc5a0a-d206-457c-99c6-86e6592607ec.jpg)
 
-> <b>I learn, plan, design & code ⌨️.</b> The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else.
+> <b>I learn, plan, design & code ⌨️.</b> The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else. Coding is exciting to me for many reasons. Programming sets no boundaries. We have an opportunity to create beautiful and valuable products. Programmers can change the world with lines of code.
 
 ## Creator of colorala.com 🤍
 <p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189123235-ca1a6061-2eee-4a4f-a5b1-df5d4b99e44b.jpg"></p>
@@ -26,6 +26,8 @@
 
 💻 Website: [maciejkuran.com](https://maciejkuran.com/)
 
+🙃 About: [maciejkuran.com/about](https://maciejkuran.com/about)
+
 
 ⌨️ Latest project:
 - [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
@@ -38,6 +40,7 @@
 
 
 💕 In the meantime:
+- I enjoy cooking with my wife 🍲
 - I care for my bonsai trees 🌳
 - I play and watch football ⚽
 - I am crazy with my 2 PUGS 🧸🧸🧡
