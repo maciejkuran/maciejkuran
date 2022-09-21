@@ -1,4 +1,4 @@
-# 👋 I'm Maciej, a Poland-based web developer and designer.
+# 👋 I'm Maciej, a Poland-based web developer and designer
 
 ![Ja_edited_1_background-overlay-2](https://user-images.githubusercontent.com/103118542/189139452-abcc5a0a-d206-457c-99c6-86e6592607ec.jpg)
 
