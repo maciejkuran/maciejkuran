@@ -18,7 +18,6 @@
 
 
 👨‍🎓 Currently study:
-- 2022 - ... Computer Science, Engineering Studies, (Business Application Developer specialty) at School of Business National Louis University
 - 2022 - `TypeScript` course with Maximilian Schwarzmüller 
 - 2022 - `React.js` course with Maximilian Schwarzmüller 
 - 2022 - `Node.js` course with Jonas Schmedtmann
@@ -30,6 +29,8 @@
 
 
 ⌨️ Latest project:
+- [Super Strong Password Generator](https://maciejkuran.com/strong-password-generator) - app and npm library 🔑
+- [fountry](https://fountry.maciejkuran.com/) - search for any country in the world 🌎 
 - [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
 
 
