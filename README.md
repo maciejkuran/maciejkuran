@@ -18,9 +18,9 @@
 
 
 👨‍🎓 Currently study:
-- 2022 - `TypeScript` course with Maximilian Schwarzmüller 
-- 2022 - `React.js` course with Maximilian Schwarzmüller 
-- 2022 - `Node.js` course with Jonas Schmedtmann
+- 2022 - `TypeScript` 
+- 2022 - `React.js`  
+- 2022 - `Node.js` 
 
 
 💻 Website: [maciejkuran.com](https://maciejkuran.com/)
