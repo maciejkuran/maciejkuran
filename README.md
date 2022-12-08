@@ -8,7 +8,7 @@
 <p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189123235-ca1a6061-2eee-4a4f-a5b1-df5d4b99e44b.jpg"></p>
 
 
-> I constantly develop this project being aware how much potential there really is. It became my obsession - in a positive sense.
+> I develop this project being aware how much potential there really is. 
 [colorala - LIVE APP](https://colorala.com)
 
 
@@ -29,6 +29,7 @@
 
 
 ⌨️ Latest project:
+- [socialboom](https://socialboom.maciejkuran.com) - demo social app 💣
 - [Super Strong Password Generator](https://maciejkuran.com/strong-password-generator) - app and npm library 🔑
 - [fountry](https://fountry.maciejkuran.com/) - search for any country in the world 🌎 
 - [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
@@ -50,17 +51,9 @@
 📫 Contact: maciejkuran@gmail.com
 
 ## Languages and Tools
+<p><img width="400" src="https://user-images.githubusercontent.com/103118542/206509890-d55a10bd-0d3c-466b-bf96-eae1fc8421cc.jpg"></p>
+<p><img width="400" src="https://user-images.githubusercontent.com/103118542/206510193-ba6e7fe2-a662-4832-b7d8-1f6081c63eae.jpg"></p>
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-</p>
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/maciejkuran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maciejkuran" /></a></p><br><br>
