@@ -18,8 +18,8 @@
 
 
 👨‍🎓 Currently study:
+- 2022 - `React.js` 
 - 2022 - `TypeScript` 
-- 2022 - `React.js`  
 - 2022 - `Node.js` 
 
 
@@ -29,6 +29,9 @@
 
 
 ⌨️ Latest project:
+
+- [hello! smoothie](https://hello-smoothie.netlify.app/) - order smoothie online 🥦🍅🥕
+- [James Davis 2023 Tour](https://james-davis-tour.netlify.app/) 🎙🎸
 - [socialboom](https://socialboom.maciejkuran.com) - demo social app 💣
 - [Super Strong Password Generator](https://maciejkuran.com/strong-password-generator) - app and npm library 🔑
 - [fountry](https://fountry.maciejkuran.com/) - search for any country in the world 🌎 
