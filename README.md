@@ -29,7 +29,7 @@
 
 
 ⌨️ Latest project:
-
+- [travelsi](https://travelsi-demo.netlify.app/) - app for sharing travel experiences ✈🏝
 - [hello! smoothie](https://hello-smoothie.netlify.app/) - order smoothie online 🥦🍅🥕
 - [James Davis 2023 Tour](https://james-davis-tour.netlify.app/) 🎙🎸
 - [socialboom](https://socialboom.maciejkuran.com) - demo social app 💣
