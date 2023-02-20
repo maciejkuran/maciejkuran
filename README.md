@@ -8,7 +8,6 @@
 <p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189123235-ca1a6061-2eee-4a4f-a5b1-df5d4b99e44b.jpg"></p>
 
 
-> I develop this project being aware how much potential there really is. 
 [colorala - LIVE APP](https://colorala.com)
 
 
@@ -29,6 +28,7 @@
 
 
 ⌨️ Latest project:
+- [Artist Daniel Gray](https://dangray.netlify.app/) - 🎨 The website of an American artist Daniel Gray
 - [travelsi](https://travelsi-demo.netlify.app/) - app for sharing travel experiences ✈🏝
 - [hello! smoothie](https://hello-smoothie.netlify.app/) - order smoothie online 🥦🍅🥕
 - [James Davis 2023 Tour](https://james-davis-tour.netlify.app/) 🎙🎸
