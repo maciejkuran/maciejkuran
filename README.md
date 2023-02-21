@@ -9,6 +9,7 @@
 
 
 [colorala - LIVE APP](https://colorala.com)
+[colorala - repository](https://github.com/maciejkuran/colorala.com)
 
 
 ## In Brief
@@ -17,7 +18,7 @@
 
 
 👨‍🎓 Currently study:
-- 2022 - `React.js` 
+- 2022 - `React.js & Next.js` 
 - 2022 - `TypeScript` 
 - 2022 - `Node.js` 
 
@@ -28,14 +29,14 @@
 
 
 ⌨️ Latest project:
-- [Artist Daniel Gray](https://dangray.netlify.app/) - 🎨 The website of an American artist Daniel Gray
-- [travelsi](https://travelsi-demo.netlify.app/) - app for sharing travel experiences ✈🏝
-- [hello! smoothie](https://hello-smoothie.netlify.app/) - order smoothie online 🥦🍅🥕
-- [James Davis 2023 Tour](https://james-davis-tour.netlify.app/) 🎙🎸
-- [socialboom](https://socialboom.maciejkuran.com) - demo social app 💣
-- [Super Strong Password Generator](https://maciejkuran.com/strong-password-generator) - app and npm library 🔑
-- [fountry](https://fountry.maciejkuran.com/) - search for any country in the world 🌎 
-- [PugHouse.com](https://pughouse.pl/) - the ordered my wife 👩‍🦱
+- [Artist Daniel Gray](https://github.com/maciejkuran/dan-gray-artist) - 🎨 the website of an American artist Daniel Gray
+- [travelsi](https://github.com/maciejkuran/travelsi) - app for sharing travel experiences ✈🏝
+- [hello! smoothie](https://github.com/maciejkuran/hello-smoothie) - order smoothie online 🥦🍅🥕
+- [James Davis 2023 Tour](https://github.com/maciejkuran/james-davis-tour) 🎙🎸
+- [socialboom](https://github.com/maciejkuran/socialboom) - demo social app 💣
+- [Password / id / key Generator](https://github.com/maciejkuran/Strong-password-generator) - app and npm library 🔑
+- [fountry](https://github.com/maciejkuran/fountry) - search for any country in the world 🌎 
+- [PugHouse.pl](https://github.com/maciejkuran/PugHouse.pl) - cosy blog and community 🐾❤️ for Pug Lovers & Owners
 
 
 👨‍💻 All projects: [maciejkuran.com/my-projects](https://maciejkuran.com/my-projects) 
