@@ -19,7 +19,9 @@
 
 
 👨‍🎓 Currently study:
+
 React.js & Next.js
+
 TypeScript
 
 💻 Website: [maciejkuran.com](https://maciejkuran.com/)
