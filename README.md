@@ -19,10 +19,8 @@
 
 
 👨‍🎓 Currently study:
-- 2022 - `React.js & Next.js` 
-- 2022 - `TypeScript` 
-- 2022 - `Node.js` 
-
+React.js & Next.js
+TypeScript
 
 💻 Website: [maciejkuran.com](https://maciejkuran.com/)
 
