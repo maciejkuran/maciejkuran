@@ -8,7 +8,7 @@
 <p align="center"><img width="1200" src="https://user-images.githubusercontent.com/103118542/189123235-ca1a6061-2eee-4a4f-a5b1-df5d4b99e44b.jpg"></p>
 
 
-[👉🏻 colorala - LIVE APP](https://colorala.com)
+[👉🏻 colorala - LIVE APP](colorala.vercel.app/)
 
 [👉🏻 colorala - repository](https://github.com/maciejkuran/colorala.com)
 
