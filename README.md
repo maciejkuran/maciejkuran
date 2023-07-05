@@ -4,17 +4,11 @@
 
 > <b>I learn, plan, design & code ⌨️.</b> The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else. Coding is exciting to me for many reasons. Programming sets no boundaries. We have an opportunity to create beautiful and valuable products. Programmers can change the world with lines of code.
 
-
-![mindescape-cms-banner](https://github.com/maciejkuran/maciejkuran/assets/103118542/24314107-7917-4447-9e55-c297f53aa073)
-
-
 ## Recent Projects
 
 | Saythanku                                                                                                                                                                                                                 | Mindescape CMS                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![saythanku-banner]([https://github.com/maciejkuran/maciejkuran/assets/103118542/b726c265-a83e-443d-9343-41e893d3ab14](https://github.com/maciejkuran/maciejkuran/assets/103118542/b726c265-a83e-443d-9343-41e893d3ab14)) | ![mindescape-cms-banner]([https://github.com/maciejkuran/maciejkuran/assets/103118542/24314107-7917-4447-9e55-c297f53aa073](https://github.com/maciejkuran/maciejkuran/assets/103118542/24314107-7917-4447-9e55-c297f53aa073)) |
-
-
 
 👨‍🎓 Currently study:
 
