@@ -22,7 +22,7 @@
   <a href="https://github.com/maciejkuran/dan-gray-artist"><img src="./images/dan-gray-banner.png" width="49%" /></a>
 </p>
 
-## Beyond coding
+## Beyond Coding
 
 - I enjoy cooking with my wife 🍲
 - I care for my bonsai trees 🌳
