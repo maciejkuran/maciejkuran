@@ -10,7 +10,7 @@
   <img  src="./images/techstack.png">
 </p>
 
-## Recent Projects
+## Selected Current Projects
 
 <p float="left">
   <a href="https://github.com/maciejkuran/saythanku"><img src="./images/saythanku-banner.png" width="49%" /></a>
@@ -20,6 +20,10 @@
 <p float="left">
   <a href="https://github.com/maciejkuran/mindescape-website"><img src="./images/mindescape-banner.png" width="49%" /></a>
   <a href="https://github.com/maciejkuran/dan-gray-artist"><img src="./images/dan-gray-banner.png" width="49%" /></a>
+</p>
+
+<p float="left">
+  <a href="https://github.com/maciejkuran/colorala"><img src="./images/colorala.png" width="100%" /></a>
 </p>
 
 ## Beyond Coding
