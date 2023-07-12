@@ -40,7 +40,7 @@
 ## Links
 
 🔗 Personal Website: [maciejkuran.com](https://maciejkuran.com/)
-🔗 Linkedin: [/maciej-kuran-janowski](https://www.linkedin.com/in/maciej-kuran-janowski/)
+🔗 LinkedIn: [/maciej-kuran-janowski](https://www.linkedin.com/in/maciej-kuran-janowski/)
 
 ## Contact
 
