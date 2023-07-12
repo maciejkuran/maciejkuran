@@ -2,7 +2,9 @@
 
 ![Ja_edited_1_background-overlay-2](https://user-images.githubusercontent.com/103118542/189139452-abcc5a0a-d206-457c-99c6-86e6592607ec.jpg)
 
-<b>I learn, plan, design & code ⌨️.</b> The prospect of growing and becoming a better programmer drives me in life. I don't see myself anywhere else. Coding is exciting to me for many reasons. Programming sets no boundaries. We have an opportunity to create beautiful and valuable products. Programmers can change the world with lines of code.
+<b>I learn, plan, design & code ⌨️.</b> 
+
+I'm an avid learner, meticulous planner, passionate designer, and proficient coder. The relentless pursuit of growth and mastery in programming fuels my every step. There's no other place I see myself, as coding exhilarates me on multiple levels. It shatters boundaries and grants us the power to craft exquisite, impactful products. With each line of code, I believe in the potential to reshape the world as we know it.
 
 ## Tech Stack
 
