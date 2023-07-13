@@ -32,10 +32,13 @@ I'm an avid learner, meticulous planner, passionate designer, and proficient cod
 
 ## Beyond Coding
 
-- I enjoy cooking with my wife 🍲
-- I care for my bonsai trees 🌳
-- I play and watch football ⚽
-- I am crazy with my 2 PUGS 🧸🧸🧡
+- I take pleasure in cooking alongside my wife, creating delicious meals, and sharing memorable culinary experiences 🍲.
+
+- I attentively nurture my collection of Bonsai trees, tending to their needs and appreciating the beauty of horticulture and the art of cultivating miniature trees 🌳.
+
+- I have a passion for football, both as an active player and an enthusiastic spectator. I enjoy participating in the game and cheering on teams with great enthusiasm ⚽.
+
+- My two pugs hold a special place in my heart, and their playful nature brings me immense joy. I have an absolute fondness for these adorable companions 🧸🧸.
 
 <p align="center">
   <img  src="./images/me-and-pugs.png">
