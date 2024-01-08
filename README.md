@@ -4,9 +4,7 @@
 
 <b>I learn, plan, design & code ⌨️.</b> 
 
-I am a Web Developer and Designer based in Poland, with a strong ambition to become a highly skilled full-stack professional. Currently, I am dedicated to mastering React.js and, honing my expertise in this powerful technology. I am committed to pushing the boundaries of web development, delivering exceptional results, and creating impactful user experiences.
-
-I'm an avid learner, meticulous planner, passionate designer, and proficient coder. The relentless pursuit of growth and mastery in programming fuels my every step. There's no other place I see myself, as coding exhilarates me on multiple levels. It shatters boundaries and grants us the power to craft exquisite, impactful products. With each line of code, I believe in the potential to reshape the world as we know it.
+I love it when ideas are implemented and become reality. Being aware of what you're doing is crucial. I am aware. I love what I do.
 
 ## Tech Stack
 
